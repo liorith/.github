@@ -1,5 +1,9 @@
-# Liorith Solutions & Studios
+# Liorith
 
--> Liorith Solutions [github/liorith-soluts](https://github.com/liorith-soluts)
-<br>
--> Liorith Studios [github/liorith-studios](https://github.com/liorith-studios)
+Hey wir sind Liorith.
+
+Leider wurde das Development bei uns eingestellt.
+
+Dennoch haben wir einiges hier zum Download.
+
+
